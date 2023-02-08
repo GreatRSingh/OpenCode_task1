@@ -1,0 +1,14 @@
+1.
+Git is a version control system which helps us in managing and collaborating in development process. With the help of git we can track what changes were done, who had done, when had done. GitHub is an online platform built upon git. It facilitates us in managing our repository and doing contribution in open source community.
+
+2.
+(a) git branch [branch_name] - This command creates a new branch.
+(b) git clone [url] - This downloads the repository from the given url. Including all the branches, changes and commits.
+(c) git diff [first_branch]...[second_branch] - It checks what are the differences in the two repository.
+(d) git reset --hard [commit] - It discards all the changes and takes us back to the specified commit.
+(e) git commit -m [message] - Records the changes permanently in version control.
+
+3.
+If you do some commits and do push
+Then on going to your github forked repo you will see
+On GitHub and you’ll see a button “Compare & pull request” and click it.
